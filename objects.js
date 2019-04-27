@@ -4,14 +4,14 @@ var playlist = {
   CelineDion:"All Night"
 }; 
 
-var updatePlaylist = {
+var updatePlaylist() = {
   Beyonce: "Sorry",
   MichaelJackson: "Beat it",
   CelineDion: "All Night"
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
-var removeFromPlaylist = {
+var removeFromPlaylist() = {
   Beyonce: "Sorry",
   MichaelJackson: "Beat it",
   CelineDion: "All Night"
