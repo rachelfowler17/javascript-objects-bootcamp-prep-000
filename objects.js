@@ -5,7 +5,7 @@ var playlist = {
 }; 
 
  function updatePlaylist(playlist,artistname,songtitle) {
-  playlist
+  playlist['Demi Lovato]
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
