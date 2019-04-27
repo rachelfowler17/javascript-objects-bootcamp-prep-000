@@ -4,7 +4,7 @@ var playlist = {
   CelineDion:"All Night"
 }; 
 
- var updatePlaylist = function { 
+ function updatePlaylist{ 
   Beyonce: "Sorry",
   MichaelJackson: "Beat it",
   CelineDion: "All Night"
