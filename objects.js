@@ -4,12 +4,12 @@ var playlist = {
   CelineDion:"All Night"
 }; 
 
- function updatePlaylist(playlist) {
+ function updatePlaylist(playlist,artistname,songtitle) {
   
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
-function removeFromPlaylist(playlist) {
+function removeFromPlaylist(playlist,) {
   
 };
 delete CelineDion.AllNight; 
