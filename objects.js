@@ -10,7 +10,7 @@ var playlist = {
 
 
 function removeFromPlaylist(playlist,artistname) {
-  playlist
+  playlist 
 };
-delete CelineDion.AllNight; 
+
 playlist; 
