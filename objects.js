@@ -1,20 +1,20 @@
 var playlist = {
-  Beyonce: "Sorry",
-  Michael Jackson: "Beat it",
-  Celine Dion: "All Night"
+  Beyonce:"Sorry",
+  MichaelJackson:"Beat it",
+  CelineDion:"All Night"
 }; 
 
 var updatePlaylist = {
   Beyonce: "Sorry",
-  Michael Jackson: "Beat it",
-  Celine Dion: "All Night"
+  MichaelJackson: "Beat it",
+  CelineDion: "All Night"
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
 var removeFromPlaylist = {
   Beyonce: "Sorry",
-  Michael Jackson: "Beat it",
-  Celine Dion: "All Night"
+  MichaelJackson: "Beat it",
+  CelineDion: "All Night"
 };
-delete Celine Dion.All Night; 
+delete CelineDion.AllNight; 
 playlist; 
