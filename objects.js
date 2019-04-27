@@ -4,10 +4,8 @@ var playlist = {
   CelineDion:"All Night"
 }; 
 
- function updatePlaylist(playlist) 
-  Beyonce: "Sorry",
-  MichaelJackson: "Beat it",
-  CelineDion: "All Night"
+ function updatePlaylist(playlist) {
+  
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
