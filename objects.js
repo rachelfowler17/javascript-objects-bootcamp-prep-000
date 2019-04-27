@@ -10,7 +10,7 @@ var playlist = {
 
 
 function removeFromPlaylist(playlist,artistname) {
-  playlist 
+ delete playlist[artistname] 
 };
 
 playlist; 
