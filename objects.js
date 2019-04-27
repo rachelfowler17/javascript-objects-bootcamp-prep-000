@@ -11,7 +11,7 @@ var playlist = {
 };
 object.assign ({}, playlist,{'Demi Lovato':['Get Back']})
 
-var removeFromPlaylist = {
+var myFunction; removeFromPlaylist = {
   Beyonce: "Sorry",
   MichaelJackson: "Beat it",
   CelineDion: "All Night"
