@@ -12,5 +12,5 @@ var playlist = {
 function removeFromPlaylist(playlist,artistname) {
  delete playlist[artistname] 
 };
-
+removeFromPlayist(playlist,"CelineDion") 
 playlist; 
